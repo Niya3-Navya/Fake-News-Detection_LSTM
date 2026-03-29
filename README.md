@@ -19,7 +19,6 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 
 ## ⚙️ How to Run
 1. Clone the repo: `git clone https://github.com`
-2. Install requirements: `pip install -r requirements.txt`
-3. Run the notebook/script: `python detect_news.py`
+2. Run the notebook/script: `python detect_news.py`
 
 ***Note:*** Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before ) from Colab
