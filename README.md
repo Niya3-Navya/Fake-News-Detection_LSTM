@@ -1,4 +1,4 @@
-# CYRIM: Fake News Detector
+
 # Fake News Detection using LSTM 🕵️‍♂️📰
 
 ## 📌 Project Overview
