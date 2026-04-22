@@ -96,8 +96,41 @@ Red (#e74c3c): Representing "Fake" news, symbolizing a warning or caution.
 <img width="765" height="421" alt="image" src="https://github.com/user-attachments/assets/bad445f8-844c-4273-b2bb-48c87e715f06" />
 
 
-##Model Training Performance (Accuracy Graph):-
-This graphical representation provides a technical overview of how the deep learning model improved
-its predictive capabilities over time during the training phase.
+## 4. Sidebar Navigation & Performance Control:-
+ * This section of the application demonstrates the secondary interface layer, designed to provide
+   users with access to the model's technical background without cluttering the main prediction
+   area.
+   
+ * Model Training Performance (Accuracy Graph):-
+   This graphical representation provides a technical overview of how the deep learning model improved
+   its predictive capabilities over time during the training phase.
+   
+ * Dual-Metric Comparison: The visualization tracks two critical metrics simultaneously to ensure the
+   model is learning correctly:
+    (A). Train Acc (Green Line): Represents the accuracy achieved on the training dataset. It shows how
+         well the model is learning the patterns from the data it has already seen.
+    (B). Val Acc (Blue Line): Represents "Validation Accuracy" on a separate, unseen dataset. This is the
+          most important metric as it proves the model can generalize and predict news it hasn't
+          encountered before.
+   
+ *  Performance Stability: The Y-axis represents the Accuracy Score (ranging from 0.0 to 1.0). The
+    graph shows that both lines converge toward a high accuracy (above 95%), which indicates a highly
+    successful training session.
+
+
 
 <img width="765" height="422" alt="image" src="https://github.com/user-attachments/assets/91a0a45b-3755-463b-bce4-adaa316148a4" />
+
+
+## 3. Results and Analysis:-
+
+  * Confusion Matrix:-The Confusion Matrix serves as a comprehensive evaluation tool that summarizes the
+     performance of the classification algorithm beyond simple accuracy.
+
+
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/8c11686b-dd31-4fc0-9c66-948fd684d21c" />
+
+
+
+
+
