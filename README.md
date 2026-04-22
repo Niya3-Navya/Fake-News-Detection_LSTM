@@ -78,7 +78,7 @@ Red (#e74c3c): Representing "Fake" news, symbolizing a warning or caution.
 
 <img width="765" height="424" alt="image" src="https://github.com/user-attachments/assets/097fbf04-7a91-45f5-b847-371cf657f7a7" />
 
-## Fake News Classification:-
+## 3. Fake News Classification:-
 * This interface demonstrates the system’s ability to successfully identify and flag fabricated
   content. Upon processing the input text, the model generates a prominent Red Error Banner
   labeled "FAKE NEWS".
@@ -93,7 +93,7 @@ Red (#e74c3c): Representing "Fake" news, symbolizing a warning or caution.
 
 <img width="758" height="422" alt="image" src="https://github.com/user-attachments/assets/a1a73dd0-b73e-4205-88d0-9b6ce04cae37" />
 
-<img width="503" height="329" alt="image" src="https://github.com/user-attachments/assets/317b8c41-f1cb-42de-94fe-5bf2021fe078" />
+<img width="765" height="421" alt="image" src="https://github.com/user-attachments/assets/bad445f8-844c-4273-b2bb-48c87e715f06" />
 
 
 ##Model Training Performance (Accuracy Graph):-
