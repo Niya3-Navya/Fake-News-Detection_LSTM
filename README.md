@@ -22,3 +22,10 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 2. Run the notebook/script: `python detect_news.py`
 
 ***Note:*** Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before ) from Colab
+
+
+
+
+
+
+<img width="763" height="427" alt="image" src="https://github.com/user-attachments/assets/a9706251-d4d2-4a3f-885a-e3d3167ee82a" />
