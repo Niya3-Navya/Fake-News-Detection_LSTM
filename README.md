@@ -24,7 +24,7 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 ***Note:*** Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before ) from Colab
 
 
-ScreenShots of System:-
+## ScreenShots of System:-
 
 
 
@@ -34,7 +34,7 @@ ScreenShots of System:-
 
 
 
-##Features and Functionalities:
+## Features and Functionalities:
 Interactive Text Input: The user is provided with a large text area labeled "Paste News
 Text Here". This allows for the input of full-length news paragraphs or articles directly
 from any external source.
@@ -58,7 +58,7 @@ training performance metrics.
 
 
 
-##Intuitive Color Scheme: 
+## Intuitive Color Scheme: 
 The application uses a standardized color palette for clarity:
 Green (#2ecc71): Representing "Real" news, symbolizing authenticity.
 Red (#e74c3c): Representing "Fake" news, symbolizing a warning or caution.
