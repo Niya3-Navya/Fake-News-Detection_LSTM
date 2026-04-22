@@ -17,9 +17,6 @@ This project leverages **Natural Language Processing (NLP)** and **Long Short-Te
 ## 📊 Dataset
 The model was trained on a combined dataset of ~44,000 news articles, split into training and testing sets.
 
-## ⚙️ How to Run
-1. Clone the repo: `git clone https://[github](https://github.com/Niya3-Navya/Fake-News-Detection_LSTM).com`
-2. Run the notebook/script: `python detect_news.py`
 
 ***Note:*** Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before ) from Colab
 
