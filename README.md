@@ -24,17 +24,9 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 ***Note:*** Visualize the working using Fake_News_ML.ipynb ( download True.csv and Fake.csv before ) from Colab
 
 
-## ScreenShots of System:-
+### ScreenShots of System:-
 
-
-
-<img width="763" height="427" alt="image" src="https://github.com/user-attachments/assets/a9706251-d4d2-4a3f-885a-e3d3167ee82a" />
-
-
-
-
-
-## Features and Functionalities:
+ ## Features and Functionalities:
   Interactive Text Input: The user is provided with a large text area labeled "Paste News
   Text Here". This allows for the input of full-length news paragraphs or articles directly
   from any external source.
@@ -60,6 +52,11 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
   Dynamic Sidebar: On the left, a sidebar is visible with a "Show Accuracy Graph" toggle,
   allowing the user to switch between the prediction view and the model's overall
   training performance metrics.
+ 
+
+
+<img width="763" height="427" alt="image" src="https://github.com/user-attachments/assets/a9706251-d4d2-4a3f-885a-e3d3167ee82a" />
+
 
 
 ## Intuitive Color Scheme: 
