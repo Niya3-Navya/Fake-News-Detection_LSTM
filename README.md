@@ -26,7 +26,11 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 
 ## ScreenShots of System:-
 
- ##  1. Features and Functionalities:
+ ##  1. Real-Time News Prediction:-
+   This screen represents the core functionality of the application, where the user interacts
+   with the trained LSTM model to verify news authenticity. 
+ 
+ Features and Functionalities:
   * Interactive Text Input: The user is provided with a large text area labeled "Paste News
     Text Here". This allows for the input of full-length news paragraphs or articles directly
     from any external source.
