@@ -62,9 +62,15 @@ The model was trained on a combined dataset of ~44,000 news articles, split into
 <img width="763" height="427" alt="image" src="https://github.com/user-attachments/assets/a9706251-d4d2-4a3f-885a-e3d3167ee82a" />
 
 
+## 2. Visual Probability Analysis (Pie Chart):-
 
-## Intuitive Color Scheme: 
-The application uses a standardized color palette for clarity:
+This screen demonstrates the visual analytics component of the application, designed to
+provide users with a deeper understanding of the model's decision-making process through
+graphical representation.
+
+
+Intuitive Color Scheme: 
+* The application uses a standardized color palette for clarity:
 Green (#2ecc71): Representing "Real" news, symbolizing authenticity.
 Red (#e74c3c): Representing "Fake" news, symbolizing a warning or caution.
 
