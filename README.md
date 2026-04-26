@@ -110,7 +110,6 @@ Fake-News-Detection/
 │   └── Fake.csv            # Fake news dataset
 ├── utils/
 │   └── preprocess.py       # Text cleaning & preprocessing functions
-├── requirements.txt
 └── README.md
 ```
 
@@ -120,11 +119,8 @@ Fake-News-Detection/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/Niya3-Navya/Fake-News-Detection_LSTM.git
+cd Fake-News-Detection_LSTM
 
 # Download NLTK data
 python -c "import nltk; nltk.download('stopwords')"
@@ -172,13 +168,7 @@ Both **Train Accuracy** and **Validation Accuracy** converge above 95%, confirmi
 
 ---
 
-## 👩‍💻 Author
 
-**[Your Name]**  
-B.Tech / B.E. — [Your Branch] | [Your College]  
-📧 [your.email@gmail.com] | 🔗 [LinkedIn URL] | 💻 [GitHub URL]
-
----
 
 ## 📄 License
 
