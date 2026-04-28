@@ -158,6 +158,18 @@ Both **Train Accuracy** and **Validation Accuracy** converge above 95%, confirmi
 
 ---
 
+## 📸 App Screenshots
+<img width="763" height="427" alt="image" src="https://github.com/user-attachments/assets/a9706251-d4d2-4a3f-885a-e3d3167ee82a" />
+<img width="765" height="424" alt="image" src="https://github.com/user-attachments/assets/097fbf04-7a91-45f5-b847-371cf657f7a7" />
+<img width="758" height="422" alt="image" src="https://github.com/user-attachments/assets/a1a73dd0-b73e-4205-88d0-9b6ce04cae37" />
+<img width="765" height="421" alt="image" src="https://github.com/user-attachments/assets/bad445f8-844c-4273-b2bb-48c87e715f06" />
+<img width="765" height="422" alt="image" src="https://github.com/user-attachments/assets/91a0a45b-3755-463b-bce4-adaa316148a4" />
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/8c11686b-dd31-4fc0-9c66-948fd684d21c" />
+
+
+---
+
+
 ## 🔮 Future Enhancements
 
 - [ ] Integrate **BERT / RoBERTa** transformer models for improved contextual understanding
