@@ -1,0 +1,9 @@
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
