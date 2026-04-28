@@ -68,6 +68,16 @@ Classification Output
 REAL ✅ / FAKE 🚨 + Confidence Score
 ```
 
+```
+## 📂 Dataset
+The dataset used is the **ISOT Fake News Dataset** from Kaggle.
+
+🔗 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
+After downloading, place `True.csv` and `Fake.csv` in the `/data` folder.
+```
+
+
 ---
 
 ## 🔬 NLP Pipeline Details
