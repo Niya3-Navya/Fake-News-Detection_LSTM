@@ -94,24 +94,7 @@ Sigmoid Activation →  Binary probability output (0 = Fake, 1 = Real)
 
 ---
 
-## 📁 Project Structure
 
-```
-Fake-News-Detection/
-│
-├── app.py                  # Streamlit frontend application
-├── model/
-│   ├── lstm_model.h5       # Trained LSTM model weights
-│   └── tokenizer.pkl       # Fitted Keras tokenizer
-├── notebooks/
-│   └── Fake_News_ML.ipynb  # Full training & evaluation notebook
-├── data/
-│   ├── True.csv            # Real news dataset
-│   └── Fake.csv            # Fake news dataset
-├── utils/
-│   └── preprocess.py       # Text cleaning & preprocessing functions
-└── README.md
-```
 
 ---
 
